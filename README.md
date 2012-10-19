@@ -1,4 +1,4 @@
-Powershell-Web-Console-in-asp.net-and-csharp
+Powershell Web Console - asp.net c#
 ============================================
 
 This project allows you to create a powershell console on a webpage and invoke commands to a specified server. 
