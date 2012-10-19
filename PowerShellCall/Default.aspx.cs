@@ -14,7 +14,7 @@ namespace PowerShellCall
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            WhoAmI.Text = "Domain\\BatchAdminAccount"; //System.Security.Principal.WindowsIdentity.GetCurrent().Name.ToString();
+            WhoAmI.Text = System.Security.Principal.WindowsIdentity.GetCurrent().Name.ToString();
         }
 
         protected void ExecuteCode_Click(object sender, EventArgs e)
