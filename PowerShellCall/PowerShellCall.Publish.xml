@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\inetpub\wwwroot\PowerShellCall" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="02/14/2011 12:47:09" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="02/14/2011 12:47:09" />
+    <file relUrl="Web.config" publishTime="02/14/2011 13:19:14" />
+    <file relUrl="bin/PowerShellCall.dll" publishTime="02/14/2011 13:16:19" />
+    <file relUrl="Default.aspx" publishTime="02/14/2011 13:07:38" />
+    <file relUrl="bin/PowerShellCall.pdb" publishTime="02/14/2011 13:16:19" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="02/14/2011 12:47:09" />
+  </publishProfile>
+</publishData>
