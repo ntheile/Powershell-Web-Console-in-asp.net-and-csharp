@@ -5,6 +5,8 @@ This project allows you to create a powershell console on a webpage and invoke c
 It uses IIS app pool identity on the server to run the code and windows authenication to get to the web console. 
 This project largly uses the `System.Management.Automation namespace`.
 
+![logo](https://raw.github.com/ntheile/Powershell-Web-Console-in-asp.net-and-csharp/master/PowerShellCall/PowerShellWeb.png)
+
 To get powershell to work with an asp.net web page you must enable the following on the 
 destination server that you are trying to run the command:
 
